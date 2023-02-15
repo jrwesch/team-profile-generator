@@ -33,7 +33,8 @@ main{
 
 /* MAKE IT ALL ON ONE LINE AND SMALLER */
 .list-group-item {
-    white-space: nowrap;
+    /* long email addresses need extra space so need to figure out the wrap */
+    /* white-space: nowrap;*/
     overflow: visible;
 }
 
