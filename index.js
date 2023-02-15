@@ -95,9 +95,9 @@ const promptMenu = () => {
 
 const promptEngineer = () => {
     console.log(`
-    ===============
+    -*-*-*-*-*-*-*-*-*
     Add a New Engineer
-    ===============
+    -*-*-*-*-*-*-*-*-*
     `);
 
     return inquirer.prompt([
@@ -163,9 +163,9 @@ const promptEngineer = () => {
 
 const promptIntern = () => {
     console.log(`
-    ===============
+    =+=+=+=+=+=+=+=+=
     Add a New Intern
-    ===============
+    =+=+=+=+=+=+=+=+=
     `);
 
     return inquirer.prompt([
@@ -231,9 +231,9 @@ const promptIntern = () => {
 
 const buildTeam = () => {
     console.log(`
-    ===============
+    -!-!-!-!-!-!-!-!-!-!-!-!-!-!
     Finished building my team!
-    ===============
+    -!-!-!-!-!-!-!-!-!-!-!-!-!-!
     `);
 
     // Create the output directory if the output path doesn't exist
