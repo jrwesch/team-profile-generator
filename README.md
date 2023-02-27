@@ -62,7 +62,7 @@ To contribute to Team_profile_generator, clone this repo locally and commit your
 ## Questions
 Any questions can be directed to me at https://github.com/jrwesch
 
-The Github page for this project can be accessed using the following link: https://jdeschat.github.io/Team_profile_generator/.
+The Github page for this project can be accessed using the following link: https://jrwesch.github.io/team-profile-generator/.
 
 The repository is found at: https://github.com/jrwesch/team-profile-generator
   
