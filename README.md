@@ -59,12 +59,11 @@ To contribute to Team_profile_generator, clone this repo locally and commit your
 - Path
 - Jest
 
-## Questions
+## Questions/Links
 Any questions can be directed to me at https://github.com/jrwesch
 
-The Github page for this project can be accessed using the following link: https://jrwesch.github.io/team-profile-generator/.
+The Github page for this project: https://jrwesch.github.io/team-profile-generator/
 
 The repository is found at: https://github.com/jrwesch/team-profile-generator
   
-Below is the link to the demo video:
-- [Link to video of demonstration](https://drive.google.com/file/d/1XELKlCH0i3ClPCyhc8Z-g3LMeAPazFGv/view)
+[Link to video of demonstration](https://drive.google.com/file/d/1XELKlCH0i3ClPCyhc8Z-g3LMeAPazFGv/view)
