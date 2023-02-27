@@ -67,4 +67,4 @@ The Github page for this project can be accessed using the following link: https
 The repository is found at: https://github.com/jrwesch/team-profile-generator
   
 Below is the link to the demo video:
-- [Video location in Github](https://github.com/jrwesch/team-profile-generator/assets/generator-vid.webm)
+- [Link to video of demonstration](https://drive.google.com/file/d/1XELKlCH0i3ClPCyhc8Z-g3LMeAPazFGv/view)
