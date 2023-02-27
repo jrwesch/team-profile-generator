@@ -1,4 +1,4 @@
-# Team_profile_generator
+# Team Profile Generator
 
 ## Description
 This project required building a Node.js command-line application that takes in information about employees on a software engineering team and generates an HTML webpage that displays summaries for each person. Tests were written for each part of the code using Jest to ensure that it passes all of them.
@@ -67,4 +67,4 @@ The Github page for this project can be accessed using the following link: https
 The repository is found at: https://github.com/jrwesch/team-profile-generator
   
 Below is the link to the demo video:
-- [Video location in Github](https://github.com/jrwescg/team-profile-generator//assets/)
+- [Video location in Github](https://github.com/jrwescg/team-profile-generator/assets/generator-vid.webm)
